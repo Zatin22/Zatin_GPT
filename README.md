@@ -1,7 +1,7 @@
 # ChatGPT Writer Take-Home Coding Assignment
 
 
-https://github.com/AryanBiswas198/ChatGPT-Writer-Assignment/assets/87803797/55e1ab35-c8e8-4bc2-84b7-3e242fb0b874
+https://github.com/user-attachments/assets/b6121c65-8001-49a3-a33b-d6a8e5bb96af
 
 
 https://chatgptwriter.ai
